@@ -36,7 +36,7 @@ function setup() {
 //ball = Bodies.circle(100,200,20,ball_options);
 //World.add(world,ball);
 
-//con = Matter.Constraint.create({
+con = Matter.Constraint.create({
   //pointA:{x:200,y:20},
   //bodyB:ball,
   //length:100,
